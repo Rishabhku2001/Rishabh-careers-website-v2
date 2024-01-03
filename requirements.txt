@@ -1,4 +1,4 @@
 Flask
 gunicorn
 sqlalchemy
-pycopg2-binary
+pycopg2
